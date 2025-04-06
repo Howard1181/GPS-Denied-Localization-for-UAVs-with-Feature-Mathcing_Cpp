@@ -1,4 +1,4 @@
-# GPS-Denied-Localization-for-UAVs-with-Feature-Mathcing
+# GPS-Denied-Localization-for-UAVs-with-Feature-Matching
 This repository implements a GPS-denied UAV localization algorithm based on KAZE feature matching and image correction, designed as a Software-In-the-Loop (SIL) simulation platform. The system enables UAVs to localize themselves using aerial imagery and onboard sensors (IMU/INS) without relying on GPS signals.
 
 ## Overview
