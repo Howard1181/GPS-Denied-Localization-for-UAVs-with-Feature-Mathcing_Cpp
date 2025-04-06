@@ -21,7 +21,7 @@ To closely simulate the communication between real UAV hardware and the localiza
     └── UAV_model.cpp
 ```
 
-## Requirememt
+## Installation
 This project was developed and tested using **Visual Studio 2022**.  
 For best compatibility and easiest setup, we recommend opening the provided `.sln` file directly:
 
