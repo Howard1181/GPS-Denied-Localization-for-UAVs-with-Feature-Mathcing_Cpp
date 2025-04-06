@@ -25,7 +25,7 @@ To closely simulate the communication between real UAV hardware and the localiza
 This project was developed and tested using **Visual Studio 2022**.  
 For best compatibility and easiest setup, we recommend opening the provided `.sln` file directly:
 
-1. Install OpenCV [https://opencv.org/releases/]
-2. Install [Visual Studio 2019+]
-3. Open the file `ImgLocatingAL.sln`
-4. Run with `Ctrl + F5`
+### 1. Install OpenCV [https://opencv.org/releases/]
+### 2. Install [Visual Studio 2019+]
+### 3. Open the file `ImgLocatingAL.sln`
+### 4. Run with `Ctrl + F5`
